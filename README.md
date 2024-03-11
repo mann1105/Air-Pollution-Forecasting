@@ -1,4 +1,4 @@
-Air pollution prediction using LLM
+Air pollution prediction using LLM: 
 LLMs are zero shot forecasters and this repo explores the potential of LLM by converting the numeric data in to string format to make it compatible with model. 
 
 1. Data collection file conatains code to perform the data preprocessing steps. Air Quality Index(AQI) Data has been collected form mandir-marg monitoring station. It includes handling missing values and calculation of AQI as it was not given explicitly in the dataset downloaded.
